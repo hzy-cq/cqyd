@@ -43,9 +43,9 @@ TVB星河1,https://epg.pw/stream/eee97f3ab8d484adff720fc3c90eb1f280b02264d5d2e39
 TVB星河2,https://epg.pw/stream/3388eca1a9b5d5c9a7da8bd8b4da3460113b22b0582b44f51a8111fc90f91749.m3u8
 明珠台,https://epg.pw/stream/00a74ca4020cd952c9e1ff1f90b8f7b9be9c1da4f0a915e1e0aa7c9dfa356197.m3u8
 电影,#genre#
-CHC动作电影,https://epg.pw/stream/9e5dbc0cbb15ba574f44e0d67c54cff2c85a7ed97dbb73e3b2101b26fec45cf1.m3u8
-CHC家庭影院,https://epg.pw/stream/d6c6dcdce08fdda05114649d8ceaa9c9fbf5e053724fa7b21a0b8e28bdeef696.m3u8
-CHC高清电影,https://epg.pw/stream/212b925c47a28994443e012c65356110e90af22c555f8e3f40c036614fec7f6d.m3u8
+CHC动作电影,http://58.19.38.162:9901/tsfile/live/1037_1.m3u8
+CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1036_1.m3u8
+CHC高清电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8
 哈尔滨影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8
 精彩电视剧,https://epg.pw/stream/928ec61fb7568b106f35028dcf4575c4fc9c32522617d35d026abc83ac23687c.m3u8
 都市剧场,https://epg.pw/stream/2eabe02805b061c8bec403738aa242cadc769f72b5711c5b2567abd96b669815.m3u8
