@@ -5,6 +5,7 @@ CCTV3,http://124.193.37.38:91/live/CCTV3hd-8M/live.m3u8
 CCTV4,http://124.193.37.38:91/live/CCTV4hd-8M/live.m3u8
 CCTV5,http://124.193.37.38:91/live/CCTV5hd-8M/live.m3u8
 CCTV5+,http://124.193.37.38:91/live/CCTV5+hd-8M/live.m3u8
+CCTV16,http://124.193.37.38:91/live/CCTV16hd-8M/live.m3u8
 CCTV6,http://124.193.37.38:91/live/CCTV6hd-8M/live.m3u8
 CCTV7,http://124.193.37.38:91/live/CCTV7hd-8M/live.m3u8
 CCTV8,http://124.193.37.38:91/live/CCTV8hd-8M/live.m3u8
