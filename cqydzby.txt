@@ -44,18 +44,19 @@ cctv央视文化精品,https://stream1.freetv.fun/604f614a74027f0c8e4c55071746c1
 CQTV移动,http://39.134.3.73:6610/000000001777/400000000100111023/1.m3u8
 港澳台及国际,#genre#
 凤凰中文,https://stream1.freetv.fun/c8ad10f8d135ebbea6b77779874c1d8a6da07d925786ac11f855c0dfa87b4487.m3u8
-凤凰中文ctv,https://stream1.freetv.fun/653363b4a3d6b0c5850c53b115d02d5e5e57d7d4c2954ef7c4163640e2cdd991.ctv
+凤凰卫视中文,https://stream1.freetv.fun/1bf9d2ebaa26a15a494de81741a7152849efc490682e2f6e806f2e3ea170376f.ctv
+凤凰中文2,https://stream1.freetv.fun/653363b4a3d6b0c5850c53b115d02d5e5e57d7d4c2954ef7c4163640e2cdd991.ctv
 凤凰资讯,https://stream1.freetv.fun/10657ccf76d0f20d4fe8c4596d94152ad1126b8e28537fe469f3da39c15f72fd.m3u8
 凤凰资讯ctv,https://stream1.freetv.fun/a5857ad51b58a0f7a8c9cbdf291571692b0eed9f5ab2cfce97a211260533c0d8.ctv
-xf凤凰香港高清,https://stream1.freetv.fun/ee96374a305f7e06183bc807a6deb975adc32ae710c80a2367b79d110ca011db.m3u8
-凤凰香港,https://stream1.freetv.fun/1f5ab9d3767b4d8b2494facfd687ce858e0feafd81ce67a4f67b8346c5f5baff.ctv
+凤凰香港高清,https://stream1.freetv.fun/ee96374a305f7e06183bc807a6deb975adc32ae710c80a2367b79d110ca011db.m3u8
+星空卫视,https://stream1.freetv.fun/a2764fcf64d61e4ea32f4f9972a630f99d2d3fac7cef4d2afb96818616f8e9d7.ctv
+星空卫视2,https://stream1.freetv.fun/a9c09c04bf7f0ccc71744697c26feb67743da281eaee48022c606b179d97fb81.ctv
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 tvb直播台,https://stream1.freetv.fun/15a4d9b14584162693dad7500429996e928d4b354d6ed0ac20b2e551ddbc348f.m3u8
-discovery id,https://stream1.freetv.fun/8dac86825af17958c13e5eabee0168f6a409f591cd827b886394ecd9b2237d2c.m3u8
-discovery kids hd,https://stream1.freetv.fun/b896cf20a769aea338b28a49e0b79db01b3bdacb6b9146f1ed7efe7a6ebd1b60.m3u8
+discoveryid,https://stream1.freetv.fun/8dac86825af17958c13e5eabee0168f6a409f591cd827b886394ecd9b2237d2c.m3u8
+discoverykidshd,https://stream1.freetv.fun/b896cf20a769aea338b28a49e0b79db01b3bdacb6b9146f1ed7efe7a6ebd1b60.m3u8
 tvbs亚洲,https://stream1.freetv.fun/c88adc69fe22cc05c7ff2984ad14db99f461e6dda12687cb7bbaf5e03a357a38.m3u8
 tvbs新闻,https://stream1.freetv.fun/38e422e8760b731a44f2edf723aad66e82223336f5a8b4cd23a345e02a089165.m3u8
-星空卫视,https://stream1.freetv.fun/a9c09c04bf7f0ccc71744697c26feb67743da281eaee48022c606b179d97fb81.ctv
 翡翠,https://stream1.freetv.fun/44bd1ba645adb14b4f6ea64c0fd9764c02a373898e39bff7c06dc9afe931053d.m3u8
 第一卫视,https://stream1.freetv.fun/f7a332b0de0639d5df6a1b85d75af796f60f3fac597b1874c33f22829d7ff212.m3u8
 tvb娱乐新闻,https://stream1.freetv.fun/6ae70aef879e11d16da2e44b6c3d594b4efcebd255492ada28c2c461b9ea8b85.m3u8
@@ -63,10 +64,10 @@ tvb娱乐新闻,https://stream1.freetv.fun/6ae70aef879e11d16da2e44b6c3d594b4efce
 CHC動作電影,https://stream1.freetv.fun/15258d3d4e90d77fee94d248c85f1f13dc842bf3f9bf804e3884c45abf42f273.ctv
 CHC家庭影院,https://stream1.freetv.fun/88d1b49848094c82a2bbc4a85354bee158fd8f7e34a6e8e03b301c903d81e9c8.m3u8
 CHC影迷電影,https://stream1.freetv.fun/18a92f00b53c84609065ae87bdf7cfc6569c13edc3b44e48e8f84ba3c7460b36.m3u8
-chc动作电影2,https://stream1.freetv.fun/15258d3d4e90d77fee94d248c85f1f13dc842bf3f9bf804e3884c45abf42f273.ctv
 chc家庭影院2,https://stream1.freetv.fun/23886ee9efaf498ef93950d5bdc545afb6507097548fab8c6ad0648b58e7d6c5.m3u8
+CHC家庭影院3,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
+CHC高清电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8
 哈尔滨影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8
-iptv6＋电影,https://stream1.freetv.fun/25e9cc475d0cc1acc706aa19e66a44e66487646e2335490d212bfbdd44f28c49.ctv
 大笑影院,https://stream1.freetv.fun/307c72f8ddf20f77af6a0c05fad13523205ce04c368280e690b14a4be4217e54.ctv
 电视剧轮播,https://stream1.freetv.fun/49d0195cb71bb4921a531733fb98e297e343e0173791108f745d45293c7c736f.m3u8
 君观影,https://stream1.freetv.fun/a43f9bf9777149fb93255e3009b2087a7752135a01fb2fbd9c67ba98f9728560.ctv
@@ -117,7 +118,6 @@ iptv6＋电影,https://stream1.freetv.fun/25e9cc475d0cc1acc706aa19e66a44e6648764
 特色频道,#genre#
 求索生活,https://stream1.freetv.fun/80dafd9465b1553d68829527b1bd9e15e8d49585e9a7735f141aa6f7cf7cfb40.m3u8
 求索科学,https://stream1.freetv.fun/3c7a8f431612bb4452904e6ce413e521e8e52e53495ae98c8a0e3e968183ef17.m3u8
-iptv自然传奇,https://stream1.freetv.fun/47e0c538f3693cc8819f93e0d189ee748677a8d7e72b17efaa65cc0d5ecae357.ctv
 超级综艺,http://39.134.3.73:6610/000000001666/100000000100111002/1.m3u8
 超级体育,http://39.134.3.73:6610/000000001666/100000000100111004/1.m3u8
 超级电影,http://39.134.3.73:6610/000000001666/100000000100111006/1.m3u8
@@ -263,7 +263,6 @@ MTV,#genre#
 孟庭苇-风中有朵雨做的云,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/Cg9qI5imMInpPvK5Mnm%40%40hd.m3u8
 孟庭苇-过冬,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/U9QKnKK2RpKMElnSS07%40%40hd.m3u8
 孟庭苇-红雨,http://vodcdn.video.taobao.com/oss/ali-video/a816f01838e07c4dac5f8612331bca63/video.m3u8
-孟庭苇-没有情人的情人节,http://vodcdn.video.taobao.com/oss/ali-video/c041d5ed45716d7d73233244b528eed6/video.m3u8
 孟庭苇-你究竟有多少个好妹妹,http://vodcdn.video.taobao.com/oss/ali-video/dfb07cbdd8435d48cb1e6691122d8d85/video.m3u8
 孟庭苇-你看你看月亮的脸,http://vodcdn.video.taobao.com/oss/ali-video/6e098f7b47614885845efb7a45998eb1/1465875165/video.m3u8.m3u8
 孟庭苇-谁的眼泪在飞,http://vodcdn.video.taobao.com/oss/ali-video/bfcfddb1694a43957962294c2f75bdfb/video.m3u8
@@ -278,7 +277,6 @@ MTV,#genre#
 裘正海-爱我的人和我爱的人,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/9Nbjzo7cialBKOcZ0fj%40%40hd.m3u8
 任齐贤-心太软,http://vodcdn.video.taobao.com/oss/ali-video/1675208d8b5f0f0d8ce09236f4068dfe/video.m3u8
 如梦令,https://vdse.bdstatic.com/20e606730cb53b91bd4a4d2b0323e563.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F
-誓言-求佛,http://vodcdn.video.taobao.com/oss/ali-video/f4f761d970399f186ce1f9ac6d009721/video.m3u8
 邰正宵-999朵玫瑰,http://vod.cctv.cn/cms/2018-11-15/CCTV15_2m_cd005a3728b44a8ba29fd528b967415a-19259_video_1-001.mp4
 邰正宵-千纸鹤,http://vod.cctv.cn/cms/2018-09-25/CCTV15_2m_20180925104217992-17354_video_1-001.mp4
 谭咏麟/关淑怡-明天你是否依然爱我,http://vodcdn.video.taobao.com/oss/ali-video/0b56ad556e887a9be35d496d318a7565/video.m3u8
