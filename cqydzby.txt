@@ -17,6 +17,9 @@ CCTV14,http://39.134.3.73:6610/000000001777/400000000100111010/1.m3u8
 CCTV15,http://39.134.3.73:6610/000000001777/400000000100111011/1.m3u8
 CCTV16,http://39.134.3.73:6610/000000001666/100000000100111091/1.m3u8
 CCTV17,http://39.134.3.73:6610/000000001777/400000000100111012/1.m3u8
+第一剧场,http://183.222.206.14:8096/udp/239.93.1.197:5140
+风云剧场,http://183.222.206.14:8096/udp/239.93.1.156:5140
+文化精品,http://183.222.206.14:8096/udp/239.93.42.47:5140
 cctv兵器科技,https://stream1.freetv.fun/8e93a9946ceb6779401cd36f42d074f7d78ca9cca3d8410b6cb819da07473349.ctv
 cctv兵器科技高清,https://stream1.freetv.fun/67c338052a90d16fc8df12c294d4de36f386597cd51af82d52762514be208cc1.ctv
 cctv电视指南高清,https://stream1.freetv.fun/07f5208d8eead6aca482af8a8f63b48ec0a287e838e7a09f4ca79ec2c7ca3d72.ctv
@@ -43,10 +46,14 @@ cctv央视文化精品,https://stream1.freetv.fun/604f614a74027f0c8e4c55071746c1
 重庆汽摩,http://39.134.3.73:6610/000000001777/400000000100111022/1.m3u8
 CQTV移动,http://39.134.3.73:6610/000000001777/400000000100111023/1.m3u8
 港澳台及国际,#genre#
-凤凰中文,http://dms.yryyj.site:8188/udp/239.76.246.135:1234#http://ayolee.com:5253/udp/239.93.0.162:2192#http://wouu.net:9977/rtp/239.93.0.162:2192
-凤凰资讯,http://ayolee.com:5253/udp/239.93.1.4:2191#http://wouu.net:9977/rtp/239.93.0.118:2191#http://dms.yryyj.site:8188/udp/239.76.246.134:1234
-凤凰卫视,http://122.224.232.218:8888/rtp/233.50.200.191:5140$LR•IPV4
+凤凰中文,http://183.222.206.14:8096/udp/239.93.0.162:2192#http://dms.yryyj.site:8188/udp/239.76.246.135:1234#http://ayolee.com:5253/udp/239.93.0.162:2192#http://wouu.net:9977/rtp/239.93.0.162:2192
+凤凰资讯,http://183.222.206.14:8096/udp/239.93.0.118:2191#http://wouu.net:9977/rtp/239.93.0.118:2191#http://dms.yryyj.site:8188/udp/239.76.246.134:1234
+凤凰卫视,http://183.222.206.14:8096/udp/239.93.1.9:2192
 星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
+凤凰资讯1,http://183.222.206.14:8096/udp/239.93.0.118:2191
+凤凰资讯2,http://183.222.206.14:8096/udp/239.93.1.4:2191
+星空卫视1,http://183.222.206.14:8096/udp/239.93.0.156:2193
+星空卫视2,http://183.222.206.14:8096/udp/239.93.1.10:2193
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 TVB亚洲武侠,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8#https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
