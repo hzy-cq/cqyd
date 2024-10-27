@@ -46,6 +46,8 @@ CHC动作电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcdzdy
 CHC家庭影院,http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy
 CHC影迷电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcymdy
 CHC動作電影,https://stream1.freetv.fun/15258d3d4e90d77fee94d248c85f1f13dc842bf3f9bf804e3884c45abf42f273.ctv
+HBO,http://41.205.93.154/HBO/index.m3u8
+HBO-1,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8580/.m3u8
 CHC华城影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 哈尔滨影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8
 睛彩竞技,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
