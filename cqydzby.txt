@@ -46,9 +46,9 @@ TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 第一卫视,https://stream1.freetv.fun/di-yi-wei-shi-1.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 电影,#genre#
-chc动作电影,https://ali.hlspull.yximgs.com/live/diyp_chcdongzuo.flv
-chc家庭影院,https://ali.hlspull.yximgs.com/live/diyp_chcjiating.flv
-chc影迷电影,https://ali.hlspull.yximgs.com/live/diyp_chcyingmi.flv
+chc动作电影,http://61.138.167.36:9901/tsfile/live/1014_1.m3u8
+chc家庭影院,http://61.138.167.36:9901/tsfile/live/1016_1.m3u8
+chc影迷电影,http://61.138.167.36:9901/tsfile/live/1015_1.m3u8
 龙华日韩,https://stream1.freetv.fun/4b4323a61dcf0ed61c536357fcbb2d68ad8b5ea8af45bd824bebab258d137a68.m3u8
 龙华洋片,https://stream1.freetv.fun/07af5ce9e0d331228189888717ee6d91f727f9bbc5720e912578119d64e346dd.m3u8
 龙华电影台,https://stream1.freetv.fun/922cb7aa85cb7cecf1847094238a90a1427dbd370ec56759a12897d753283cbd.m3u8
