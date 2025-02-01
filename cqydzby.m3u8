@@ -58,11 +58,13 @@ http://39.134.3.73:6610/000000001777/400000000100111022/1.m3u8
 #EXTINF:-1 group-title ="重庆地方频道" tvg-name="重庆移动" tvg-logo="https://live.fanmingming.com/tv/重庆移动.png",CQTV移动
 http://39.134.3.73:6610/000000001777/400000000100111023/1.m3u8
 #EXTINF:-1 group-title ="港澳台及国际" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png",凤凰中文
-http://ali.hlspull.yximgs.com/live/diyp_fh2.flv
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 group-title ="港澳台及国际" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
-http://ali.hlspull.yximgs.com/live/diyp_fh1.flv
+http://extraott.com:80/live/6772191932/1654508883/62829.m3u8
+#EXTINF:-1 group-title ="港澳台及国际",鳳凰资讯
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 group-title ="港澳台及国际" tvg-name="凤凰卫视香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png",凤凰香港
-http://ali.hlspull.yximgs.com/live/diyp_fh3.flv
+http://extraott.com:80/live/6772191932/1654508883/473557.m3u8
 #EXTINF:-1 group-title ="港澳台及国际" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 #EXTINF:-1 group-title ="港澳台及国际" tvg-name="TVB星河" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png",TVB星河
@@ -88,11 +90,11 @@ https://stream1.freetv.fun/di-yi-wei-shi-1.m3u8
 #EXTINF:-1 group-title ="港澳台及国际" tvg-name="亚洲新闻" tvg-logo="https://live.fanmingming.com/tv/亚洲新闻.png",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title ="电影" tvg-name="CHC动作电影" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204146046493_74.png",chc动作电影
-http://61.138.167.36:9901/tsfile/live/1014_1.m3u8
+http://z.b.bkpcp.top/m.php?id=dzdy
 #EXTINF:-1 group-title ="电影" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png",chc家庭影院
-http://61.138.167.36:9901/tsfile/live/1016_1.m3u8
+http://z.b.bkpcp.top/m.php?id=jtyy
 #EXTINF:-1 group-title ="电影" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png",chc影迷电影
-http://61.138.167.36:9901/tsfile/live/1015_1.m3u8
+https://stream1.freetv.fun/fb1e407995dc9699c2f42ace7d757b89a8464140d0e6b1a16f384d63e50bb43d.m3u8
 #EXTINF:-1 group-title ="电影" tvg-name="龙华日韩" tvg-logo="https://live.fanmingming.com/tv/龙华日韩.png",龙华日韩
 https://stream1.freetv.fun/4b4323a61dcf0ed61c536357fcbb2d68ad8b5ea8af45bd824bebab258d137a68.m3u8
 #EXTINF:-1 group-title ="电影" tvg-name="龙华洋片" tvg-logo="https://live.fanmingming.com/tv/龙华洋片.png",龙华洋片
