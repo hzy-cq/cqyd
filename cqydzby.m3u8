@@ -35,6 +35,16 @@ http://39.134.3.73:6610/000000001777/400000000100111011/1.m3u8
 http://39.134.3.73:6610/000000001666/100000000100111091/1.m3u8
 #EXTINF:-1 group-title ="央视频道" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png",CCTV17
 http://39.134.3.73:6610/000000001777/400000000100111012/1.m3u8
+#EXTINF:-1 group-title ="央视频道" tvg-logo="https://epg.pw/media/images/channel/2022/05/10/large/20220510165533742367_97.jpg",CCTV风云足球
+http://111.61.236.247:9081/hls/58/index.m3u8
+#EXTINF:-1 group-title ="央视频道" tvg-logo="https://epg.pw/media/images/channel/2022/05/10/large/20220510170002648380_81.jpg",CCTV女性时尚
+http://111.61.236.247:9081/hls/59/index.m3u8
+#EXTINF:-1 group-title ="央视频道",CCTV兵器科技
+http://111.61.236.247:9081/hls/61/index.m3u8
+#EXTINF:-1 group-title ="央视频道",CCTV世界地理
+http://111.61.236.247:9081/hls/62/index.m3u8
+#EXTINF:-1 group-title ="央视频道",CCTV怀旧剧场
+http://111.61.236.247:9081/hls/67/index.m3u8
 #EXTINF:-1 group-title ="重庆地方频道" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png",重庆卫视
 http://39.134.3.73:6610/000000001777/400000000100111013/1.m3u8
 #EXTINF:-1 group-title ="重庆地方频道" tvg-name="重庆新闻" tvg-logo="https://live.fanmingming.com/tv/重庆新闻.png",重庆新闻
@@ -59,22 +69,12 @@ http://39.134.3.73:6610/000000001777/400000000100111022/1.m3u8
 http://39.134.3.73:6610/000000001777/400000000100111023/1.m3u8
 #EXTINF:-1 group-title ="港澳台及国际" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png",凤凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 group-title ="港澳台及国际" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
-http://extraott.com:80/live/6772191932/1654508883/62829.m3u8
+#EXTINF:-1 group-title ="港澳台及国际",鳳凰中文
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 group-title ="港澳台及国际",鳳凰资讯
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 group-title ="港澳台及国际" tvg-name="凤凰卫视香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png",凤凰香港
-http://extraott.com:80/live/6772191932/1654508883/473557.m3u8
-#EXTINF:-1 group-title ="港澳台及国际" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=huali2
-#EXTINF:-1 group-title ="港澳台及国际" tvg-name="TVB星河" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png",TVB星河
-http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
-#EXTINF:-1 group-title ="港澳台及国际",TVB亚洲武侠
-http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-#EXTINF:-1 group-title ="港澳台及国际" tvg-name="" tvg-logo="",美亚电影台
-http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-#EXTINF:-1 group-title ="港澳台及国际",寰宇新闻台
-http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+#EXTINF:-1 group-title ="港澳台及国际" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 group-title ="港澳台及国际" tvg-name="环球电视台" tvg-logo="https://live.fanmingming.com/tv/环球电视台.png",环球电视台
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
 #EXTINF:-1 group-title ="港澳台及国际",纬来精采
@@ -90,11 +90,13 @@ https://stream1.freetv.fun/di-yi-wei-shi-1.m3u8
 #EXTINF:-1 group-title ="港澳台及国际" tvg-name="亚洲新闻" tvg-logo="https://live.fanmingming.com/tv/亚洲新闻.png",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title ="电影" tvg-name="CHC动作电影" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204146046493_74.png",chc动作电影
-http://z.b.bkpcp.top/m.php?id=dzdy
-#EXTINF:-1 group-title ="电影" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png",chc家庭影院
-http://z.b.bkpcp.top/m.php?id=jtyy
-#EXTINF:-1 group-title ="电影" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png",chc影迷电影
-https://stream1.freetv.fun/fb1e407995dc9699c2f42ace7d757b89a8464140d0e6b1a16f384d63e50bb43d.m3u8
+https://stream1.freetv.fun/15258d3d4e90d77fee94d248c85f1f13dc842bf3f9bf804e3884c45abf42f273.ctv
+#EXTINF:-1 group-title ="电影",chc動作電影
+https://stream1.freetv.fun/7946cfbf7a25f09bf7af9af6724dd7390b5f7995454f354908695f819f161f3c.ctv
+#EXTINF:-1 group-title ="电影" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png",CHC家庭影院
+https://stream1.freetv.fun/4530af99822e82cc20d703812cbe49f98facdf419f9a2196f83bfb7943d6b4cd.ctv
+#EXTINF:-1 group-title ="电影",chc影迷電影
+https://stream1.freetv.fun/e19f53c2ac2bb7cbd8a9efd6fab6690900c57cd2c8b45b9c910538be57f714d1.m3u8
 #EXTINF:-1 group-title ="电影" tvg-name="龙华日韩" tvg-logo="https://live.fanmingming.com/tv/龙华日韩.png",龙华日韩
 https://stream1.freetv.fun/4b4323a61dcf0ed61c536357fcbb2d68ad8b5ea8af45bd824bebab258d137a68.m3u8
 #EXTINF:-1 group-title ="电影" tvg-name="龙华洋片" tvg-logo="https://live.fanmingming.com/tv/龙华洋片.png",龙华洋片
@@ -223,8 +225,6 @@ http://39.134.3.73:6610/000000001666/100000000100111068/1.m3u8
 http://39.134.3.73:6610/000000001666/100000000100111058/1.m3u8
 #EXTINF:-1 group-title ="特色频道" tvg-name="欢乐剧场" tvg-logo="https://live.fanmingming.com/tv/欢乐剧场.png",欢乐剧场
 http://39.134.3.73:6610/000000001666/100000000100111098/1.m3u8
-#EXTINF:-1 group-title ="特色频道" tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png",都市剧场
-http://39.134.3.73:6610/000000001666/100000000100111209/1.m3u8
 #EXTINF:-1 group-title ="特色频道" tvg-name="家庭剧场" tvg-logo="https://live.fanmingming.com/tv/家庭剧场.png",家庭剧场
 http://39.134.3.73:6610/000000001666/100000000100111059/1.m3u8
 #EXTINF:-1 group-title ="特色频道" tvg-name="古装剧场" tvg-logo="https://live.fanmingming.com/tv/古装剧场.png",古装剧场
@@ -269,8 +269,6 @@ http://39.134.3.73:6610/000000001666/100000000100111055/1.m3u8
 http://39.134.3.73:6610/000000001666/100000000100111077/1.m3u8
 #EXTINF:-1 group-title ="特色频道" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png",金鹰卡通
 http://39.134.3.73:6610/000000001666/100000000100111044/1.m3u8
-#EXTINF:-1 group-title ="特色频道" tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png",动漫秀场
-http://39.134.3.73:6610/000000001666/100000000100111231/1.m3u8
 #EXTINF:-1 group-title ="特色频道" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png",卡酷少儿
 http://39.134.3.73:6610/000000001666/100000000100111045/1.m3u8
 #EXTINF:-1 group-title ="特色频道" tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png",优漫卡通
@@ -281,12 +279,18 @@ http://39.134.3.73:6610/000000001666/100000000100111048/1.m3u8
 http://39.134.3.73:6610/000000001666/100000000100111054/1.m3u8
 #EXTINF:-1 group-title ="特色频道" tvg-name="" tvg-logo="",健美训练
 http://39.134.3.73:6610/000000001666/100000000100111101/1.m3u8
-#EXTINF:-1 group-title ="特色频道" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png",五星体育
-http://39.134.3.73:6610/000000001666/100000000100111241/1.m3u8
 #EXTINF:-1 group-title ="特色频道" tvg-name="" tvg-logo="",体育赛事
 http://39.134.3.73:6610/000000001666/100000000100111094/1.m3u8
 #EXTINF:-1 group-title ="特色频道" tvg-name="" tvg-logo="",农业致富
 http://39.134.3.73:6610/000000001666/100000000100111069/1.m3u8
+#EXTINF:-1 group-title ="特色频道" tvg-name="环球旅游" tvg-logo="https://live.fanmingming.com/tv/环球旅游.png",环球旅游
+http://111.61.236.247:9081/hls/50/index.m3u8
+#EXTINF:-1 group-title ="特色频道",河南武术世界
+http://111.61.236.247:9081/hls/60/index.m3u8
+#EXTINF:-1 group-title ="特色频道",文物宝库
+http://111.61.236.247:9081/hls/64/index.m3u8
+#EXTINF:-1 group-title ="特色频道" tvg-name="环球奇观" tvg-logo="https://live.fanmingming.com/tv/环球奇观.png",环球奇观
+http://111.61.236.247:9081/hls/63/index.m3u8
 #EXTINF:-1 group-title ="特色频道" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png",CGTN
 http://39.134.3.73:6610/000000001666/100000000100111053/1.m3u8
 #EXTINF:-1 group-title ="特色频道" tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/中国教育1台.png",CETV1
@@ -391,8 +395,6 @@ http://vodcdn.video.taobao.com/oss/ali-video/180f9fcdb9e2b24d3b13a526fb90003e/vi
 http://vodcdn.video.taobao.com/oss/ali-video/11b6273898b6a1b1da34e646264cd036/video.m3u8
 #EXTINF:-1 group-title ="MTV",江蕙-梦中的情话
 http://vd2.bdstatic.com/mda-ji4rwrwg7fijyqkh/mda-ji4rwrwg7fijyqkh.mp4
-#EXTINF:-1 group-title ="MTV",筷子兄弟-小苹果
-http://vd1.bdstatic.com/mda-hc2rwgemn6yrnvw2/mda-hc2rwgemn6yrnvw2.mp4
 #EXTINF:-1 group-title ="MTV",冷漠-不要再说你还爱我
 http://antiserver.kuwo.cn/anti.s?rid=MUSIC_911272&response=res&format=mp4&type=convert_url
 #EXTINF:-1 group-title ="MTV",冷漠-古咖啡
@@ -423,14 +425,10 @@ http://em.21dtv.com/songs/60110036.mkv
 http://vd2.bdstatic.com/mda-jcrjbhmgprhs00c4/sc/mda-jcrjbhmgprhs00c4.mp4
 #EXTINF:-1 group-title ="MTV",罗时丰-爱情的路
 http://vd4.bdstatic.com/mda-jcrjcp1wy5q2i00n/sc/mda-jcrjcp1wy5q2i00n.mp4
-#EXTINF:-1 group-title ="MTV",罗时丰-擦掉彼句我爱你
-http://vd1.bdstatic.com/mda-hj3j9zhu12h99a79/vs-f5f50550f0b93f5020da43ab88266eda-watermark/hd/mda-hj3j9zhu12h99a79.mp4
 #EXTINF:-1 group-title ="MTV",罗时丰-无情之梦
 http://vd2.bdstatic.com/mda-je1jq1hvgmab08gd/sc/mda-je1jq1hvgmab08gd.mp4
 #EXTINF:-1 group-title ="MTV",罗时丰-心事
 http://vd2.bdstatic.com/mda-jaadiz1rwrtrj7kw/sc/mda-jaadiz1rwrtrj7kw.mp4
-#EXTINF:-1 group-title ="MTV",罗时丰一定要成功
-http://vd1.bdstatic.com/mda-hgmk00ncqxvvix0v/mda-hgmk00ncqxvvix0v.mp4
 #EXTINF:-1 group-title ="MTV",吕方-朋友别哭
 http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/qgljCDKewD8vEgOMrrt%40%40sd.m3u8
 #EXTINF:-1 group-title ="MTV",马健淘-杀阡陌
@@ -499,8 +497,6 @@ http://vd4.bdstatic.com/mda-ijgqk17gxf3xh2wz/sc/mda-ijgqk17gxf3xh2wz.mp4
 http://vd3.bdstatic.com/mda-ijgee8tg9n4a95ij/sc/mda-ijgee8tg9n4a95ij.mp4
 #EXTINF:-1 group-title ="MTV",翁立友-表示
 http://vd4.bdstatic.com/mda-ijge8r0m6vgx46ms/sc/mda-ijge8r0m6vgx46ms.mp4
-#EXTINF:-1 group-title ="MTV",翁立友-痴情雨
-http://vd1.bdstatic.com/mda-hemzqd1rrbr8q4kw/sc/mda-hemzqd1rrbr8q4kw.mp4
 #EXTINF:-1 group-title ="MTV",翁立友-独身仔的生活
 http://vd4.bdstatic.com/mda-jdmd7ydrsa0dp6e2/hd/mda-jdmd7ydrsa0dp6e2.mp4
 #EXTINF:-1 group-title ="MTV",翁立友-感恩
@@ -515,8 +511,6 @@ http://vd2.bdstatic.com/mda-ji4uxxfqu5tgr7c3/mda-ji4uxxfqu5tgr7c3.mp4
 http://vd3.bdstatic.com/mda-ji4sadsbxes30b8h/mda-ji4sadsbxes30b8h.mp4
 #EXTINF:-1 group-title ="MTV",翁立友-妈妈请你不通痛
 http://vd3.bdstatic.com/mda-im9gh6d15m05zu9p/sc/mda-im9gh6d15m05zu9p.mp4
-#EXTINF:-1 group-title ="MTV",翁立友-迷魂香
-http://vd1.bdstatic.com/mda-hid0euc4xc7xmum0/sc/mda-hid0euc4xc7xmum0.mp4
 #EXTINF:-1 group-title ="MTV",翁立友-恁姊仔住市内
 http://vd3.bdstatic.com/mda-ijfekw4yxergj9ak/sc/mda-ijfekw4yxergj9ak.mp4
 #EXTINF:-1 group-title ="MTV",翁立友-拼命的坚持
@@ -557,8 +551,6 @@ http://vodcdn.video.taobao.com/oss/ali-video/c28acbe36530da595b04161855bba004/vi
 http://vd2.bdstatic.com/mda-jjm7vgq1iahz0zpg/mda-jjm7vgq1iahz0zpg.mp4
 #EXTINF:-1 group-title ="MTV",辛晓琪-俩俩相忘
 http://vodcdn.video.taobao.com/oss/ali-video/6b406c70e3007a5c66a2085c39b13d80/video.m3u8
-#EXTINF:-1 group-title ="MTV",许茹芸-独角戏
-http://vodcdn.video.taobao.com/oss/ali-video/5333f389ce940d0a2c1dd6090927746c/video.m3u8
 #EXTINF:-1 group-title ="MTV",许茹芸-如果云知道
 http://vodcdn.video.taobao.com/oss/ali-video/fd87aea7bc293a5930b8a64c752df476/video.m3u8
 #EXTINF:-1 group-title ="MTV",许茹芸-我依然爱你
@@ -569,8 +561,6 @@ https://vdse.bdstatic.com//650fda26067e619a8632b173052b3a08.mp4?authorization=bc
 http://vodcdn.video.taobao.com/oss/ali-video/e1e0b88e5c6d40d7176f353d41aac985/video.m3u8
 #EXTINF:-1 group-title ="MTV",杨钰莹-轻轻告诉你
 http://vodcdn.video.taobao.com/oss/ali-video/1905c60363f40cea52f342ec59132da0/video.m3u8
-#EXTINF:-1 group-title ="MTV",杨钰莹-我不想说
-http://vodcdn.video.taobao.com/oss/ali-video/cc97a07de2cac88c025590ef874253fc/video.m3u8
 #EXTINF:-1 group-title ="MTV",叶倩文-我的爱对你说
 http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/7xXG24i7EbZtCTOtSnh%40%40sd.m3u8
 #EXTINF:-1 group-title ="MTV",于文文-体面
